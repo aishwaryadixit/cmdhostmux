@@ -1,3 +1,3 @@
 # Command Host Multiplexing
 
-Executing commands across multiple hosts in a go.
+This is a script that enable you to execute a set of commands across multiple hosts in a go.
